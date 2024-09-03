@@ -4,8 +4,9 @@ const Home = () => {
   return (
 
       <>
-        <header></header>
-        <section-hero></section-hero>
+        <div>
+
+        </div>
       </>
   );
 };
