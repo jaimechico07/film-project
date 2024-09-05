@@ -1,10 +1,16 @@
 import React from "react";
+import SectionHero from "./section-hero/SectionHero";
+import SectionTrending from "./section-trending/SectionTrending";
+import SectionContinueWatching from "./section-Continue-Watching/SectionContinueWatching";
+
 
 
 const Home = () => {
   return (
         <main>
-          <h1>Hola mundo</h1>
+          <SectionHero />
+          <SectionTrending/>
+          <SectionContinueWatching/>
         </main>
   );
 };
