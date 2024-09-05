@@ -1,0 +1,28 @@
+{
+    "animes": [
+      {
+        "rank": 1,
+        "title": "Hell's Paradise",
+        "genre": "Action",
+        "img": "https://uiparadox.co.uk/templates/vivid/v2/assets/media/anime-card/img-3.png"
+      },
+      {
+        "rank": 2,
+        "title": "One Piece",
+        "genre": "Comedy",
+        "img": "https://uiparadox.co.uk/templates/vivid/v2/assets/media/anime-card/img-4.png"
+      },
+      {
+        "rank": 3,
+        "title": "86 Eighty Six",
+        "genre": "Romance",
+        "img": "https://uiparadox.co.uk/templates/vivid/v2/assets/media/anime-card/img-5.png"
+      },
+      {
+        "rank": 4,
+        "title": "Darling In The Franxx",
+        "genre": "Fantasy",
+        "img": "https://uiparadox.co.uk/templates/vivid/v2/assets/media/anime-card/img-6.png"
+      }
+    ]
+  }
