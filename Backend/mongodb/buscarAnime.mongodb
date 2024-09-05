@@ -1,0 +1,4 @@
+
+use('filmAnimes');
+
+db.anime.find({ nombre: "Naruto" })

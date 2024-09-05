@@ -1,0 +1,17 @@
+use('filmAnimes')
+
+db.anime.insertOne({
+    _id: 1,
+    nombre: 'Naruto',
+    episodios: 500,
+    genero: 'Accion',
+    episodioActual: 1
+})
+
+db.anime.insertOne({   
+    _id: 2,
+    nombre: 'Dragon Ball',
+    episodios: 500,
+    genero: 'Accion',
+    episodioActual: 1
+})
