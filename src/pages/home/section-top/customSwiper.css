@@ -1,0 +1,55 @@
+.swiper-button-next,
+.swiper-button-prev {
+    /* background-color: rgba(0, 0, 0, 0.5); */
+    background-color: rgb(37, 33, 33);
+    /* Fondo oscuro con transparencia */
+    color: #58dda3;
+    /* Color de la flecha */
+    width: 30px;
+    /* Ancho de la flecha */
+    height: 30px;
+    /* Altura de la flecha */
+    border-radius: 20%;
+    /* Flecha redonda */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    opacity: 0.8;
+    /* Opacidad por defecto */
+    /* transition: opacity 0.3s ease; */
+    transition: opacity 0.3s ease, visibility 0.3s ease;
+    position: absolute; /* Posicionar absolutamente con respecto a la imagen */
+    top: 42.5%; /* Centrar verticalmente */
+    transform: translateY(-50%); /* Ajustar para centrar exacto */
+}
+
+.swiper-button-next:hover,
+.swiper-button-prev:hover {
+    opacity: 1;
+    /* Incrementa la opacidad cuando se pasa el mouse */
+}
+
+.swiper-button-next::after,
+.swiper-button-prev::after {
+    font-size: 10px;
+    /* Tamaño de la flecha */
+    font-weight: bold;
+}
+
+.swiper-button-next {
+    right: 10px;
+    /* Ajusta la posición a la derecha */
+}
+
+.swiper-button-prev {
+    left: 10px;
+    /* Ajusta la posición a la izquierda */
+}
+
+/* Oculta el botón cuando está deshabilitado */
+.swiper-button-disabled {
+    opacity: 0;
+    /* Oculta la flecha */
+    visibility: hidden;
+    /* Evita que sea clickeable */
+}
