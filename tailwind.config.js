@@ -24,27 +24,27 @@ export default {
         "dynamic-h6": "clamp(1rem, 0.9286rem + 0.3571vw, 1.25rem);",
       },
       screens: {
-        'sm': '540px',
+        sm: "540px",
         // => @media (min-width: 640px) { ... }
-  
-        'md': '768px',
+
+        md: "768px",
         // => @media (min-width: 768px) { ... }
-  
-        'lg': '1024px',
+
+        lg: "1024px",
         // => @media (min-width: 1024px) { ... }
-  
-        'xl': '1280px',
+
+        xl: "1280px",
         // => @media (min-width: 1280px) { ... }
-  
-        '2xl': '1440px',
+
+        "2xl": "1440px",
         // => @media (min-width: 1440px) { ... }
 
-        '3xl': '1536px',
+        "3xl": "1536px",
         // => @media (min-width: 1536px) { ... }
-        
-        '4xl': '1680px',
+
+        "4xl": "1680px",
         // => @media (min-width: 1680px) { ... }
-      }
+      },
     },
   },
   plugins: [],
