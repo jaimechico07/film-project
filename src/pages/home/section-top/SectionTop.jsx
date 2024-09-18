@@ -1,9 +1,9 @@
 import React from "react";
-import { Swiper, SwiperSlide } from "swiper/react";
-import { Navigation } from "swiper/modules"; // Cambiar la importación de Navigation en Swiper 11.x
+// import Swiper core and required modules
+import { Navigation } from 'swiper/modules';
 
-import "swiper/css"; // Importa el CSS base de Swiper
-import "swiper/css/navigation"; // Importa el CSS de navegación
+import { Swiper, SwiperSlide } from 'swiper/react';
+
 
 import "./customSwiper.css"; // Importa el archivo de estilos personalizados para las flechas
 
