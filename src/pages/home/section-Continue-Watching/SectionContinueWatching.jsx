@@ -1,14 +1,12 @@
 import React from "react";
-import { IoIosArrowForward } from "react-icons/io";
+
 import data from "./data.json";
 import PlayButton from "../../../components/PlayButton";
 
 //icons
+import { IoIosArrowForward } from "react-icons/io";
 import { BiSolidMoviePlay } from "react-icons/bi";
 import { PiCrownThin } from "react-icons/pi";
-
-//icons
-
 import { IoMdTime } from "react-icons/io";
 
 const SectionContinueWatching = () => {

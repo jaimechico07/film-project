@@ -1,6 +1,8 @@
+
 import React from 'react';
-import { IoIosArrowForward } from "react-icons/io";
 import data from "./data.json";
+
+import { IoIosArrowForward } from "react-icons/io";
 import { CiPlay1 } from "react-icons/ci";
 
 const SectionTrending = () => {

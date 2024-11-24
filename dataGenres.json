@@ -1,0 +1,66 @@
+[
+    {
+        "customId": "G001",
+        "name": "Action"
+    },
+    {
+        "customId": "G002",
+        "name": "Adventure"
+    },
+    {
+        "customId": "G003",
+        "name": "Animation"
+    },
+    {
+        "customId": "G004",
+        "name": "Comedy"
+    },
+    {
+        "customId": "G005",
+        "name": "Drama"
+    },
+    {
+        "customId": "G006",
+        "name": "Fantasy"
+    },
+    {
+        "customId": "G007",
+        "name": "Historical"
+    },
+    {
+        "customId": "G008",
+        "name": "Horror"
+    },
+    {
+        "customId": "G009",
+        "name": "Romance"
+    },
+    {
+        "customId": "G010",
+        "name": "Science Fiction"
+    },
+    {
+        "customId": "G011",
+        "name": "Thriller"
+    },
+    {
+        "customId": "G012",
+        "name": "Western"
+    },
+    {
+        "customId": "G013",
+        "name": "Documentary"
+    },
+    {
+        "customId": "G014",
+        "name": "Mystery"
+    },
+    {
+        "customId": "G015",
+        "name": "Musical"
+    },
+    {
+        "customId": "G016",
+        "name": "Family"
+    }
+]

@@ -1,0 +1,495 @@
+[
+  {
+    "title": "Inception",
+    "adult": false,
+    "country":"USA",
+    "language": ["Espanish", "English"],
+    "description": "A thief who steals corporate secrets...",
+    "genre_id": ["G001", "G004"],
+    "rating": 8.8,
+    "year": 2010,
+    "duration": 148,
+    "qualities": ["720p", "HD", "4K"],
+    "trending": true,
+    "topRated": true,
+    "popular": true,
+    "trailler": "https://www.youtube.com/embed/RV9L7ui9Cn8?si=y2UvrETZbGgnTXXA",
+    "releaseDate": "2010-07-16",
+    "poster": "https://cuevana.biz/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FtXQvtRWfkUUnWJAn2tN3jERIUG.jpg&w=256&q=75",
+    "director": "Christopher Nolan",
+    "cast": [
+      {
+        "name": "Leonardo DiCaprio",
+        "image": "https://image.tmdb.org/t/p/original/path_to_image1.jpg"
+      },
+      {
+        "name": "Joseph Gordon-Levitt",
+        "image": "https://image.tmdb.org/t/p/original/path_to_image2.jpg"
+      },
+      {
+        "name": "Elliot Page",
+        "image": "https://image.tmdb.org/t/p/original/path_to_image3.jpg"
+      },
+      {
+        "name": "Tom Hardy",
+        "image": "https://image.tmdb.org/t/p/original/path_to_image3.jpg"
+      },
+      {
+        "name": "Cillian Murphy",
+        "image": "https://image.tmdb.org/t/p/original/path_to_image3.jpg"
+      },
+      {
+        "name": "Marion Cotillard",
+        "image": "https://image.tmdb.org/t/p/original/path_to_image3.jpg"
+      }
+    ]
+  },
+  {
+    "title": "Interstellar",
+    "adult": false,
+    "country":"USA",
+    "language": ["English"],
+    "description": "A team of explorers travels through a wormhole in space in an attempt to ensure humanity's survival.",
+    "genre_id": ["G001", "G004"],
+    "rating": 8.6,
+    "year": 2014,
+    "duration": 169,
+    "qualities": ["720p", "HD", "4K"],
+    "trending": true,
+    "topRated": true,
+    "popular": true,
+    "trailer": "https://www.youtube.com/embed/zSWdZVtXT7E",
+    "releaseDate": "2014-11-07",
+    "poster": "https://cuevana.biz/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FnrSaXF39nDfAAeLKksRCyvSzI2a.jpg&w=256&q=75",
+    "director": "Christopher Nolan",
+    "cast": [
+      {
+        "name": "Matthew McConaughey",
+        "image": "https://image.tmdb.org/t/p/original/path_to_image1.jpg"
+      },
+      {
+        "name": "Anne Hathaway",
+        "image": "https://image.tmdb.org/t/p/original/path_to_image2.jpg"
+      },
+      {
+        "name": "Jessica Chastain",
+        "image": "https://image.tmdb.org/t/p/original/path_to_image3.jpg"
+      }
+    ]
+  },
+  {
+    "title": "The Dark Knight",
+    "adult": false,
+    "country":"USA",
+    "language": ["English"],
+    "description": "When the menace known as the Joker emerges from his mysterious past, he wreaks havoc and chaos on the people of Gotham.",
+    "genre_id": ["G001", "G003"],
+    "rating": 9.0,
+    "year": 2008,
+    "duration": 152,
+    "qualities": ["720p", "HD", "4K"],
+    "trending": true,
+    "topRated": true,
+    "popular": true,
+    "trailer": "https://www.youtube.com/embed/EXeTwQWrcwY",
+    "releaseDate": "2008-07-18",
+    "poster": "https://cuevana.biz/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2F8QDQExnfNFOtabLDKqfDQuHDsIg.jpg&w=256&q=75",
+    "director": "Christopher Nolan",
+    "cast": [
+      {
+        "name": "Christian Bale",
+        "image": "https://image.tmdb.org/t/p/original/path_to_image1.jpg"
+      },
+      {
+        "name": "Heath Ledger",
+        "image": "https://image.tmdb.org/t/p/original/path_to_image2.jpg"
+      },
+      {
+        "name": "Aaron Eckhart",
+        "image": "https://image.tmdb.org/t/p/original/path_to_image3.jpg"
+      }
+    ]
+  },
+  {
+    "title": "The Shawshank Redemption",
+    "adult": false,
+    "country":"USA",
+    "language": ["English"],
+    "description": "Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency.",
+    "genre_id": ["G001", "G009"],
+    "rating": 9.3,
+    "year": 1994,
+    "duration": 142,
+    "qualities": ["720p", "HD"],
+    "trending": false,
+    "topRated": true,
+    "popular": false,
+    "trailer": "https://www.youtube.com/embed/6hB3S9bIaco",
+    "releaseDate": "1994-09-23",
+    "poster": "https://cuevana.biz/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FuRRTV7p6l2ivtODWJVVAMRrwTn2.jpg&w=256&q=75",
+    "director": "Frank Darabont",
+    "cast": [
+      {
+        "name": "Tim Robbins",
+        "image": "https://image.tmdb.org/t/p/original/path_to_image1.jpg"
+      },
+      {
+        "name": "Morgan Freeman",
+        "image": "https://image.tmdb.org/t/p/original/path_to_image2.jpg"
+      }
+    ]
+  },
+  {
+    "title": "The Godfather",
+    "adult": false,
+    "country":"USA",
+    "language": ["English"],
+    "description": "The aging patriarch of an organized crime dynasty transfers control of his clandestine empire to his reluctant son.",
+    "genre_id": ["G002", "G005"],
+    "rating": 9.2,
+    "year": 1972,
+    "duration": 175,
+    "qualities": ["720p", "HD"],
+    "trending": false,
+    "topRated": true,
+    "popular": false,
+    "trailer": "https://www.youtube.com/embed/UaVTIH8mujA?si=6Q-jP__6o8sZsUW1",
+    "releaseDate": "1972-03-24",
+    "poster": "https://cuevana.biz/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2F5HlLUsmsv60cZVTzVns9ICZD6zU.jpg&w=256&q=75",
+    "director": "Francis Ford Coppola",
+    "cast": [
+      {
+        "name": "Marlon Brando",
+        "image": "https://image.tmdb.org/t/p/original/path_to_image1.jpg"
+      },
+      {
+        "name": "Al Pacino",
+        "image": "https://image.tmdb.org/t/p/original/path_to_image2.jpg"
+      }
+    ]
+  },
+  {
+    "title": "Pulp Fiction",
+    "adult": false,
+    "country":"USA",
+    "language": ["English"],
+    "description": "The lives of two mob hitmen, a boxer, a gangster's wife, and a pair of diner bandits intertwine in four tales of violence and redemption.",
+    "genre_id": ["G007", "G006"],
+    "rating": 8.9,
+    "year": 1994,
+    "duration": 154,
+    "qualities": ["720p", "HD"],
+    "trending": false,
+    "topRated": true,
+    "popular": true,
+    "trailer": "https://www.youtube.com/embed/s7EdQ4FqbhY?si=knHH603WO9hcbW-7",
+    "releaseDate": "1994-10-14",
+    "poster": "https://cuevana.biz/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FhNcQAuquJxTxl2fJFs1R42DrWcf.jpg&w=256&q=75",
+    "director": "Quentin Tarantino",
+    "cast": [
+      {
+        "name": "John Travolta",
+        "image": "https://image.tmdb.org/t/p/original/path_to_image1.jpg"
+      },
+      {
+        "name": "Uma Thurman",
+        "image": "https://image.tmdb.org/t/p/original/path_to_image2.jpg"
+      },
+      {
+        "name": "Samuel L. Jackson",
+        "image": "https://image.tmdb.org/t/p/original/path_to_image3.jpg"
+      }
+    ]
+  },
+  {
+    "title": "Forrest Gump",
+    "adult": false,
+    "country":"USA",
+    "language": ["English"],
+    "description": "The presidencies of Kennedy and Johnson, the Vietnam War, the Watergate scandal and other historical events unfold through the perspective of an Alabama man with an IQ of 75.",
+    "genre_id": ["G001", "G004", "G014"],
+    "rating": 8.8,
+    "year": 1994,
+    "duration": 142,
+    "qualities": ["720p", "HD"],
+    "trending": false,
+    "topRated": true,
+    "popular": true,
+    "trailer": "https://www.youtube.com/embed/bLvqoHBptjg?si=-wuPED0Ov29HYbTE",
+    "releaseDate": "1994-07-06",
+    "poster": "https://cuevana.biz/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FoiqKEhEfxl9knzWXvWecJKN3aj6.jpg&w=256&q=75",
+    "director": "Robert Zemeckis",
+    "cast": [
+      {
+        "name": "Tom Hanks",
+        "image": "https://image.tmdb.org/t/p/original/path_to_image1.jpg"
+      },
+      {
+        "name": "Robin Wright",
+        "image": "https://image.tmdb.org/t/p/original/path_to_image2.jpg"
+      }
+    ]
+  },
+  {
+    "title": "Fight Club",
+    "adult": false,
+    "country":"USA",
+    "language": ["English"],
+    "description": "An insomniac office worker and a devil-may-care soap maker form an underground fight club that transforms into something much more.",
+    "genre_id": ["G001", "G004", "G016"],
+    "rating": 8.8,
+    "year": 1999,
+    "duration": 139,
+    "qualities": ["720p", "HD"],
+    "trending": false,
+    "topRated": true,
+    "popular": false,
+    "trailer": "https://www.youtube.com/embed/BdJKm16Co6M?si=YihSNoESi2H0CRKd",
+    "releaseDate": "1999-10-15",
+    "poster": "https://cuevana.biz/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FsgTAWJFaB2kBvdQxRGabYFiQqEK.jpg&w=256&q=75",
+    "director": "David Fincher",
+    "cast": [
+      {
+        "name": "Brad Pitt",
+        "image": "https://image.tmdb.org/t/p/original/path_to_image1.jpg"
+      },
+      {
+        "name": "Edward Norton",
+        "image": "https://image.tmdb.org/t/p/original/path_to_image2.jpg"
+      }
+    ]
+  },
+  {
+    "title": "The Matrix",
+    "adult": false,
+    "country":"USA",
+    "language": ["English"],
+    "description": "A computer hacker learns from mysterious rebels about the true nature of his reality and his role in the war against its controllers.",
+    "genre_id": ["G011", "G0012", "G010"],
+    "rating": 8.7,
+    "year": 1999,
+    "duration": 136,
+    "qualities": ["720p", "HD", "4K"],
+    "trending": true,
+    "topRated": true,
+    "popular": true,
+    "trailer": "https://www.youtube.com/embed/vKQi3bBA1y8?si=LwRD0tizVDaeLgN1",
+    "releaseDate": "1999-03-31",
+    "poster": "https://cuevana.biz/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FqK76PKQLd6zlMn0u83Ej9YQOqPL.jpg&w=256&q=75",
+    "director": "Lana Wachowski, Lilly Wachowski",
+    "cast": [
+      {
+        "name": "Keanu Reeves",
+        "image": "https://image.tmdb.org/t/p/original/path_to_image1.jpg"
+      },
+      {
+        "name": "Laurence Fishburne",
+        "image": "https://image.tmdb.org/t/p/original/path_to_image2.jpg"
+      }
+    ]
+  },
+  {
+    "title": "The Lord of the Rings: The Return of the King",
+    "adult": false,
+    "country":"USA",
+    "language": ["English"],
+    "description": "Gandalf and Aragorn lead the World of Men against Sauron's army to draw his gaze from Frodo and Sam as they approach Mount Doom with the One Ring.",
+    "genre_id": ["G009", "G002", "G015"],
+    "rating": 8.9,
+    "year": 2003,
+    "duration": 201,
+    "qualities": ["720p", "HD", "4K"],
+    "trending": true,
+    "topRated": true,
+    "popular": true,
+    "trailer": "https://www.youtube.com/embed/r5X-hFf6Bwo?si=JJGx5OcYpw-rHC0Z",
+    "releaseDate": "2003-12-17",
+    "poster": "https://cuevana.biz/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FmWuFbQrXyLk2kMBKF9TUPtDwuPx.jpg&w=256&q=75",
+    "director": "Peter Jackson",
+    "cast": [
+      {
+        "name": "Elijah Wood",
+        "image": "https://image.tmdb.org/t/p/original/path_to_image1.jpg"
+      },
+      {
+        "name": "Viggo Mortensen",
+        "image": "https://image.tmdb.org/t/p/original/path_to_image2.jpg"
+      }
+    ]
+  },
+  {
+    "title": "The Silence of the Lambs",
+    "adult": false,
+    "country":"USA",
+    "language": ["English"],
+    "description": "A young FBI cadet must confide in an incarcerated and manipulative killer to receive his help on catching another serial killer.",
+    "genre_id": ["G003", "G002", "G008"],
+    "rating": 8.6,
+    "year": 1991,
+    "duration": 118,
+    "qualities": ["720p", "HD"],
+    "trending": false,
+    "topRated": true,
+    "popular": true,
+    "trailer": "https://www.youtube.com/embed/6iB21hsprAQ?si=UeCY17KEgZTkKALV",
+    "releaseDate": "1991-02-14",
+    "poster": "https://cuevana.biz/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2F8FdQQ3cUCs9goEOr1qUFaHackoJ.jpg&w=256&q=75",
+    "director": "Jonathan Demme",
+    "cast": [
+      {
+        "name": "Jodie Foster",
+        "image": "https://image.tmdb.org/t/p/original/path_to_image1.jpg"
+      },
+      {
+        "name": "Anthony Hopkins",
+        "image": "https://image.tmdb.org/t/p/original/path_to_image2.jpg"
+      }
+    ]
+  },
+  {
+    "title": "Gladiator",
+    "adult": false,
+    "country":"USA",
+    "language": ["English"],
+    "description": "A former Roman general sets out to exact vengeance against the corrupt emperor who murdered his family and sent him into slavery.",
+    "genre_id": ["G009", "G014"],
+    "rating": 8.5,
+    "year": 2000,
+    "duration": 155,
+    "qualities": ["720p", "HD"],
+    "trending": true,
+    "topRated": true,
+    "popular": true,
+    "trailer": "https://www.youtube.com/embed/P5ieIbInFpg?si=bm2MzdNdqt84B1GK",
+    "releaseDate": "2000-05-05",
+    "poster": "https://cuevana.biz/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2F90QFOG5zSN4cbrIVs4DL4ePAuA5.jpg&w=256&q=75",
+    "director": "Ridley Scott",
+    "cast": [
+      {
+        "name": "Russell Crowe",
+        "image": "https://image.tmdb.org/t/p/original/path_to_image1.jpg"
+      },
+      {
+        "name": "Joaquin Phoenix",
+        "image": "https://image.tmdb.org/t/p/original/path_to_image2.jpg"
+      }
+    ]
+  },
+  {
+    "title": "The Social Network",
+    "adult": false,
+    "country":"USA",
+    "language": ["English"],
+    "description": "As Harvard students create the social networking site that would become known as Facebook, they crack under pressure and their friendships are tested.",
+    "genre_id": ["G005", "G003"],
+    "rating": 7.7,
+    "year": 2010,
+    "duration": 120,
+    "qualities": ["720p", "HD"],
+    "trending": false,
+    "topRated": true,
+    "popular": false,
+    "trailer": "https://www.youtube.com/embed/2RB3edZyeYw?si=y7skmf5ajAgLJkdg",
+    "releaseDate": "2010-10-01",
+    "poster": "https://cuevana.biz/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2F2GtDmIdxkJ5NZG97yhJQtM8Wn1H.jpg&w=256&q=75",
+    "director": "David Fincher",
+    "cast": [
+      {
+        "name": "Jesse Eisenberg",
+        "image": "https://image.tmdb.org/t/p/original/path_to_image1.jpg"
+      },
+      {
+        "name": "Andrew Garfield",
+        "image": "https://image.tmdb.org/t/p/original/path_to_image2.jpg"
+      }
+    ]
+  },
+  {
+    "title": "The Departed",
+    "adult": false,
+    "country":"USA",
+    "language": ["English"],
+    "description": "An undercover cop and a mole in the police attempt to identify each other while infiltrating an Irish gang in Boston.",
+    "genre_id": ["G005", "G0016", "G007"],
+    "rating": 8.5,
+    "year": 2006,
+    "duration": 151,
+    "qualities": ["720p", "HD"],
+    "trending": false,
+    "topRated": true,
+    "popular": false,
+    "trailer": "https://www.youtube.com/embed/r-MiSNsCdQ4?si=gNoa5CJvligSB2s3",
+    "releaseDate": "2006-10-06",
+    "poster": "https://cuevana.biz/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FmupWl1yjc7S8nvce6KpYksZdlTy.jpg&w=256&q=75",
+    "director": "Martin Scorsese",
+    "cast": [
+      {
+        "name": "Leonardo DiCaprio",
+        "image": "https://image.tmdb.org/t/p/original/path_to_image1.jpg"
+      },
+      {
+        "name": "Matt Damon",
+        "image": "https://image.tmdb.org/t/p/original/path_to_image2.jpg"
+      }
+    ]
+  },
+  {
+    "title": "Spider-Man: No Way Home",
+    "adult": false,
+    "country":"USA",
+    "language": ["English"],
+    "description": "Peter Parker's secret identity is revealed, bringing his superhero responsibilities into conflict with his civilian life.",
+    "genre_id": ["G001", "G010", "G011"],
+    "rating": 8.0,
+    "year": 2021,
+    "duration": 148,
+    "qualities": ["720p", "HD", "4K"],
+    "trending": true,
+    "topRated": false,
+    "popular": true,
+    "trailer": "https://www.youtube.com/embed/JfVOs4VSpmA?si=VivChTzYMdLPA9zT",
+    "releaseDate": "2021-12-17",
+    "poster": "https://cuevana.biz/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FmiZFgV81xG324rpUknQX8dtXuBl.jpg&w=256&q=75",
+    "director": "Jon Watts",
+    "cast": [
+      {
+        "name": "Tom Holland",
+        "image": "https://image.tmdb.org/t/p/original/path_to_image1.jpg"
+      },
+      {
+        "name": "Zendaya",
+        "image": "https://image.tmdb.org/t/p/original/path_to_image2.jpg"
+      }
+    ]
+  },
+  {
+    "title": "Joker",
+    "adult": false,
+    "country":"USA",
+    "language": ["English"],
+    "description": "In Gotham City, mentally troubled comedian Arthur Fleck is disregarded and mistreated by society.",
+    "genre_id": ["G003", "G002", "G008"],
+    "rating": 8.5,
+    "year": 2019,
+    "duration": 122,
+    "qualities": ["720p", "HD"],
+    "trending": true,
+    "topRated": true,
+    "popular": true,
+    "trailer": "https://www.youtube.com/embed/t433PEQGErc?si=CCvyzCiEP7lH82b6",
+    "releaseDate": "2019-10-04",
+    "poster": "https://cuevana.biz/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2Fv0eQLbzT6sWelfApuYsEkYpzufl.jpg&w=256&q=75",
+    "director": "Todd Phillips",
+    "cast": [
+      {
+        "name": "Joaquin Phoenix",
+        "image": "https://image.tmdb.org/t/p/original/path_to_image1.jpg"
+      },
+      {
+        "name": "Robert De Niro",
+        "image": "https://image.tmdb.org/t/p/original/path_to_image2.jpg"
+      }
+    ]
+  }
+ 
+]

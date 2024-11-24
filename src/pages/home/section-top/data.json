@@ -1,0 +1,76 @@
+{
+  "animes": [
+    {
+      "id": 1,
+      "title": "Hell's Paradise",
+      "punctuation":"8.5",
+      "year":"2021",
+      "episodes":"24",
+      "genre": "Action",
+      "img": "https://uiparadox.co.uk/templates/vivid/v2/assets/media/anime-card/img-3.png"
+    },
+    {
+      "id": 2,
+      "title": "One Piece",
+      "punctuation":"8.5",
+      "year":"2021",
+      "episodes":"24",
+      "genre": "Comedy",
+      "img": "https://uiparadox.co.uk/templates/vivid/v2/assets/media/anime-card/img-4.png"
+    },
+    {
+      "id": 3,
+      "title": "86 Eighty Six",
+      "punctuation":"8.5",
+      "year":"2021",
+      "episodes":"24",
+      "genre": "Romance",
+      "img": "https://uiparadox.co.uk/templates/vivid/v2/assets/media/anime-card/img-5.png"
+    },
+    {
+      "id": 4,
+      "title": "Darling In The Franxx",
+      "punctuation":"8.5",
+      "year":"2021",
+      "episodes":"24",
+      "genre": "Fantasy",
+      "img": "https://uiparadox.co.uk/templates/vivid/v2/assets/media/anime-card/img-6.png"
+    },
+    {
+      "id": 5,
+      "title": "Hell's Paradise",
+      "punctuation":"8.5",
+      "year":"2021",
+      "episodes":"24",
+      "genre": "Action",
+      "img": "https://uiparadox.co.uk/templates/vivid/v2/assets/media/anime-card/img-3.png"
+    },
+    {
+      "id": 6,
+      "title": "One Piece",
+      "punctuation":"8.5",
+      "year":"2021",
+      "episodes":"24",
+      "genre": "Comedy",
+      "img": "https://uiparadox.co.uk/templates/vivid/v2/assets/media/anime-card/img-4.png"
+    },
+    {
+      "id": 7,
+      "title": "86 Eighty Six",
+      "punctuation":"8.5",
+      "year":"2021",
+      "episodes":"24",
+      "genre": "Romance",
+      "img": "https://uiparadox.co.uk/templates/vivid/v2/assets/media/anime-card/img-5.png"
+    },
+    {
+      "id": 8 ,
+      "title": "Darling In The Franxx",
+      "punctuation":"8.5",
+      "year":"2021",
+      "episodes":"24",
+      "genre": "Fantasy",
+      "img": "https://uiparadox.co.uk/templates/vivid/v2/assets/media/anime-card/img-6.png"
+    }
+  ]
+}

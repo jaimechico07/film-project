@@ -11,6 +11,7 @@ export default {
 
         //fondos
         "bg-100": "#1B1B1B",
+        "bg-200":"#212020"
       },
       backgroundImage: {
         footer: "url('/src/assets/bFooter.png')",
@@ -44,6 +45,19 @@ export default {
 
         "4xl": "1680px",
         // => @media (min-width: 1680px) { ... }
+      },
+      backgroundImage: {
+        "footer":"url(./../src/assets/bFooter.png)"
+      },
+      animation: {
+        'pulse-opacity': 'pulseOpacity 2s infinite',
+      },
+      keyframes: {
+        pulseOpacity: {
+          '0%': { transform: 'scale(1)', opacity: '1' },
+          '100%': { transform: 'scale(1.5)', opacity: '0' },
+          
+        },
       },
     },
   },
